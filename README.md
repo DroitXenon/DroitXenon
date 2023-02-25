@@ -14,6 +14,8 @@ Justin Wang</a></h1>
 
 - 🖥️ I’m currently learning Unreal Engine 5
 
+- 📱 I'm an Electronic Enthusiast
+
 - 🎮 I regularly upload game videos on [Youtube](https://www.youtube.com/channel/UChjsZRcfC1iEUmGckClNUqg)
 
 - 📫 How to reach me **droitxenon@outlook.com**
