@@ -18,6 +18,8 @@ Justin Wang</a></h1>
 
 - 🎮 I regularly upload game videos on [Youtube](https://www.youtube.com/channel/UChjsZRcfC1iEUmGckClNUqg)
 
+- 📷 I love Flying FPV and Taking Picture
+
 - 📫 How to reach me **droitxenon@outlook.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
