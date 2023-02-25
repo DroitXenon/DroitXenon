@@ -16,7 +16,7 @@ Justin Wang</a></h1>
 
 - 📱 I'm an Electronic Enthusiast
 
-- 💻 Interested in AR/VR and Internet
+- 💻 Interested in AR/VR and Cybersecurity
 
 - 📷 love Flying FPV and Taking Picture
 
