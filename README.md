@@ -10,7 +10,7 @@ Justin Wang</a></h1>
 
 - 🔭 I’m currently studying in University of Waterloo</a>
 
-- 🌱 I’m currently studying Mathematics
+- 🌱 I’m currently studying Mathematics/Computer Science
 
 - 🖥️ I’m currently learning Unreal Engine 5
 
