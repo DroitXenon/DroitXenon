@@ -16,9 +16,11 @@ Justin Wang</a></h1>
 
 - 📱 I'm an Electronic Enthusiast
 
-- 🎮 I regularly upload game videos on [Youtube](https://www.youtube.com/channel/UChjsZRcfC1iEUmGckClNUqg)
+- 💻 Interested in AR/VR and Internet
 
-- 📷 I love Flying FPV and Taking Picture
+- 📷 love Flying FPV and Taking Picture
+
+- 🎮 I regularly upload game videos on [Youtube](https://www.youtube.com/channel/UChjsZRcfC1iEUmGckClNUqg)
 
 - 📫 How to reach me **droitxenon@outlook.com**
 
