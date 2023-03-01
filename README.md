@@ -42,4 +42,3 @@ Justin Wang</a></h1>
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 
 </p>
-
