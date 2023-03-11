@@ -18,7 +18,7 @@ Justin Wang</a></h1>
 
 - 💻 Interested in AR/VR and Cybersecurity
 
-- 📷 Love Flying FPV and Taking Picture
+- 📷 Love Flying FPV and Taking Pictures
 
 - 🎮 I regularly upload game videos on [Youtube](https://www.youtube.com/channel/UChjsZRcfC1iEUmGckClNUqg)
 
