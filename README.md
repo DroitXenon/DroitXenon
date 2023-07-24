@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 
 Justin Wang</a></h1>
-<h3 align="center">U of Waterloo </h3>
+<h3 align="center">U of Waterloo CS </h3>
 
 <p align="left"> <a href="https://twitter.com/DroitXenon" target="blank"><img src="https://img.shields.io/twitter/follow/DroitXenon?logo=twitter&style=for-the-badge" alt="DroitXenon" /></a> </p>
 
