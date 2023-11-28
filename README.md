@@ -4,11 +4,13 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04F2F7&center=true&vCenter=true&random=false&width=435&lines=University+of+Waterloo+CS+Student;Electronic+Enthusiast;Perfectionist" alt="Typing SVG" /></a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.imgur.com/lLfM33a.gif">
-</a>
 
 ## 💫 About Me:
+
+<a target="_blank" align="center">
+  <img align="right"  width="400" alt="GIF" src="https://i.imgur.com/lLfM33a.gif">
+</a>
+
 - 🔭 I’m currently studying in University of Waterloo</a>
 - 🌱 I’m currently studying Mathematics/Computer Science
 - 🖥️ I’m currently learning Unreal Engine 5
@@ -19,8 +21,11 @@
 - 📫 How to reach me **droitxenon@outlook.com**
 <br/>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JustinWang) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UChjsZRcfC1iEUmGckClNUqg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/droitxenon) 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i2tjlkvga2otg58kclinl1g6u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
 
@@ -38,9 +43,6 @@
 
 <br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=DroitXenon&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DroitXenon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
