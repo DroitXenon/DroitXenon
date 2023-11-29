@@ -28,11 +28,11 @@
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=DroitXenon&theme=radical&hide_border=true&card_width=500)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DroitXenon&theme=radical&hide_border=true&card_width=550)
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DroitXenon&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&size_weight=0.1&count_weight=0.9&langs_count=20&card_width=450)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DroitXenon&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&size_weight=0.1&count_weight=0.9&langs_count=20&card_width=500)
 
 <br/>
 
