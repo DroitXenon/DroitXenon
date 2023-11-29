@@ -5,7 +5,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right"  width="400" height = 700 alt="GIF" src="https://64.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif">
+  <img align="right"  width="400" height = 750 alt="GIF" src="https://64.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif">
 </a>
 
 ## 💫 About Me:
